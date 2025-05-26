@@ -19,4 +19,10 @@ CSS3 (Flexbox, Grid, Media Queries)
 
 JavaScript (Vanilla)
 
-📸 Preview
+📸 Preview:
+
+![image alt]([image_url](https://github.com/kanchan-nath/Stripe-Clone/blob/main/Screenshot%202025-05-26%20175713.png?raw=true))
+![image alt]([image_url](https://github.com/kanchan-nath/Stripe-Clone/blob/main/Screenshot%202025-05-26%20175726.png?raw=true))
+![image alt]([image_url](https://github.com/kanchan-nath/Stripe-Clone/blob/main/Screenshot%202025-05-26%20175744.png?raw=true))
+![image alt]([image_url](https://github.com/kanchan-nath/Stripe-Clone/blob/main/Screenshot%202025-05-26%20175808.png?raw=true))
+![image alt]([image_url](https://github.com/kanchan-nath/Stripe-Clone/blob/main/Screenshot%202025-05-26%20175822.png?raw=true))
