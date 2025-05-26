@@ -21,4 +21,4 @@ JavaScript (Vanilla)
 
 📸 Preview:
 
-https://github.com/kanchan-nath/Stripe-Clone/blob/main/Screenshot%202025-05-26%20175822.png
+![image alt](https://github.com/kanchan-nath/Stripe-Clone/blob/main/Screenshot%202025-05-26%20175822.png)
